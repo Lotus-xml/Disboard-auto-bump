@@ -1,8 +1,8 @@
-//eat my ass
-//use node.js 19.7.0 if you're getting errors when running
+// Use the latest version of node if you're getting errors when running
 
-cock = 'id of the channel you wanna send the command to';
-token = 'token goes here';
+// To get the channel id, you will need to enable developer mode.
+cock = 'id of the channel you wanna bump in!';
+token = 'token of the account bumping goes here';
 
 const { Client } = require('discord.js-selfbot-v13');
 const femboy = new Client({
