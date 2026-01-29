@@ -10,3 +10,4 @@ Run npm install discord-js-selfbot and then you can simply run `nodejs main.js`
 To have the script running 24/7 you can use a vps or even replit (JUST REMEMBER NOT TO EXPOSE YOUR ACCOUNT TOKEN!)
 
 
+I have no idea if this works anymore
